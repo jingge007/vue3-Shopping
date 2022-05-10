@@ -1,5 +1,6 @@
 <template>
   <div class="styles_color">这里是首页</div>
+  <a-button type="primary">Primary Button</a-button>
 </template>
 
 <script>
